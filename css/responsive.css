@@ -1,0 +1,47 @@
+/*custom break point */
+
+@media only screen and (max-width: 409px) {
+    .btn-download {
+        margin-bottom: 15px;
+    }
+    .btn-tour {
+        margin-left: 0;
+    }
+}
+
+
+/*Small devices */
+
+@media only screen and (max-width: 767px) {
+    .navbar-default {
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+    .purchase-now .col-md-3 {
+        text-align: center;
+        padding-top: 50px;
+    }
+}
+
+
+/*Small devices and tablets*/
+
+@media only screen and (max-width: 768px) {
+    .header-iphone {
+        display: none;
+    }
+    .header-text,
+    .header-btns {
+        text-align: center;
+    }
+}
+
+
+/*Medium devices, desktop*/
+
+@media only screen and (max-width: 992px) {}
+
+
+/*Large devices, Wide screen*/
+
+@media only screen and (max-width: 1200px) {}
