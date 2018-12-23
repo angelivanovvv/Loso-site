@@ -1,4 +1,4 @@
-# Logo website  
+# Loso website  
 Loso is single page designed project for practise.
 
 Technologies used in this project are: GIT, HTML5, CSS3, jQuery, Bootstrap, Animate.css, WOW.js.
